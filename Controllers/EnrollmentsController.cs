@@ -8,7 +8,7 @@ using Project1.Models;
 
 namespace Project1.Controllers
 {
-    [Authorize]
+   
     [Route("api/[controller]")]
     [ApiController]
     public class EnrollmentsController : ControllerBase
@@ -30,6 +30,14 @@ namespace Project1.Controllers
             return lstGetEnrollmentDto;
         }
 
+        [HttpGet("{id}")]
+        public GetEnrollmentDto Get(int id)
+        {
+            var result = _enrollment.GetById(id);
+            var getEnrollmentDto = _mapper.Map<GetEnrollmentDto>(result);
+            return getEnrollmentDto;
+        }
+
         [HttpPost]
         public IActionResult Post(AddEnrollmentStudentToCourseDto addEnrollmentStudentToCourseDto)
         {
@@ -40,6 +48,21 @@ namespace Project1.Controllers
 
                 var getEnrollmentDto = _mapper.Map<GetEnrollmentDto>(newEnrollment);
                 return CreatedAtAction("Get", new { id = getEnrollmentDto.EnrollmentID }, getEnrollmentDto);
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            try
+            {
+                _enrollment.Delete(id);
+                return Ok($"Delete id {id} berhasil");
             }
             catch (Exception ex)
             {

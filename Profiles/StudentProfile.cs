@@ -17,7 +17,6 @@ namespace Project1.Profiles
             CreateMap<Course, CourseWithStudentDto>();
 
             CreateMap<Enrollment, GetEnrollmentDto>();
-            CreateMap<Enrollment, GetGradeDto>();
             CreateMap<Enrollment, EnrollmentWithCourseDto>();
             CreateMap<Enrollment, EnrollmentWithStudentDto>();
             CreateMap<AddEnrollmentStudentToCourseDto, Enrollment>();

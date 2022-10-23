@@ -8,7 +8,7 @@ using Project1.Models;
 
 namespace Project1.Controllers
 {
-    [Authorize]
+    
     [Route("api/[controller]")]
     [ApiController]
     public class StudentsController : ControllerBase
