@@ -1,0 +1,276 @@
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\appsettings.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.exe
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.pdb
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\AutoMapper.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.pdb
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\NETBootcampSept2022\NETBootcamp2022\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\appsettings.json
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.exe
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Project1.pdb
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\AutoMapper.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\BackUp Project\NETBootcamp2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.dll
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.pdb
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\BackUp Project\NETBootcamp2022\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.dll
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.pdb
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\appsettings.json
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Project1.exe
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Project1.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Project1.pdb
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\AutoMapper.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Project Mandiri\2022\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\Project Mandiri\2022\Project1\obj\Debug\net6.0\ref\Project1.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\appsettings.Development.json
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\appsettings.json
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Project1.exe
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Project1.deps.json
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Project1.runtimeconfig.json
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Project1.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Project1.pdb
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\AutoMapper.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Humanizer.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ProjectDotnetRapidTech\Project1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.csproj.AssemblyReference.cache
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.AssemblyInfoInputs.cache
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.AssemblyInfo.cs
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.csproj.CoreCompileInputs.cache
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\staticwebassets.build.json
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\staticwebassets.development.json
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\scopedcss\bundle\Project1.styles.css
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.csproj.CopyComplete
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.dll
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\refint\Project1.dll
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.pdb
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\Project1.genruntimeconfig.cache
+D:\ProjectDotnetRapidTech\Project1\obj\Debug\net6.0\ref\Project1.dll
